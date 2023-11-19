@@ -1,5 +1,5 @@
 <!-- HEADER: Title of the project -->
-<h1 align="center">BasicCalculator</h1>
+<h1 align="center">Basic Calculator</h1>
 
 <!-- INTRODUCTION: Brief introduction about the project, its inspiration, and purpose -->
 ## Introduction
