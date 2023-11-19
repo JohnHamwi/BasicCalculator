@@ -60,4 +60,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 John Hamwi - [@Trippixn](https://twitter.com/trippixn) - john.hamwi10@gmail.com
 
-Project Link: [https://github.com/johnhamwi/**movierecommender**](https://github.com/johnhamwi/**movierecommender**)
+Project Link: [https://github.com/johnhamwi/basiccalculator](https://github.com/johnhamwi/basiccalculator)
