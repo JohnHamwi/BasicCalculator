@@ -32,7 +32,7 @@ This calculator supports basic arithmetic operations including addition, subtrac
 To use the BasicCalculator:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/BasicCalculator
+git clone https://github.com/johnhamwu/basiccalculator
 ```
 
 <!-- EXAMPLES OF USAGE: Examples showing how to use the project -->
