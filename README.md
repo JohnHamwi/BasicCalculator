@@ -36,7 +36,7 @@ git clone https://github.com/johnhamwu/basiccalculator
 ```
 
 <!-- EXAMPLES OF USAGE: Examples showing how to use the project -->
-Examples of Usage
+## Examples of Usage
 After compiling the Java files, run the main class. Input an arithmetic expression in infix format, and the calculator will output the result.
 
 <!-- CONTRIBUTING: Guidelines for contributing to the project -->
